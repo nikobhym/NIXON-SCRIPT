@@ -1,10 +1,10 @@
-# ChumoGH-Script V3.4
+# NixonChumo-Script V3.9
 
 # Proyecto sujeto a mejoras . . . . 
 
 ![logo](https://raw.githubusercontent.com/ChumoGH/ChumoGH-Script/master/FOTO.jpeg)
 
-ULTIMA ACTUALIZACION : 17-05-2020
+ULTIMA ACTUALIZACION : 17-03-2022
 
 **Manager Script**
 
@@ -40,4 +40,4 @@ apt-get update -y; apt-get upgrade -y; wget -q https://raw.githubusercontent.com
 
 ```
 
-**By: [ ChumoGH SCRIPTS ⃘⃤꙰✰ ]**
+**By: [ NixonChumo SCRIPTS ⃘⃤꙰✰ ]**
